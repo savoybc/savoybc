@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @savoybc
-- 👀 I’m interested in ... Algorand!
-- 🌱 I’m currently learning ... Python, Algorand
-- 💞️ I’m looking to collaborate on ... you guessed it.
-- 📫 How to reach me ...
+- 👋 Hi, I’m 
+- 👀 I’m interested in ... crypto stuff
+- 🌱 I’m currently learning ... SUI and its ecosystem.
+- 💞️ I’m looking to collaborate on ... profitable apps, maybe?
 
 <!---
 savoybc/savoybc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
